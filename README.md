@@ -23,7 +23,7 @@ Vocalists Mark Wakefield and Chester Bennington are former members of the band.
 
 ## Bottom-Middle side of the localhost Linkin Park website.
 
-<img src="Website%20screenshots/bottom%20screen.png">
+
 
 ## Bottom side of the locahost Linkin Park website.
 
