@@ -1,6 +1,6 @@
 # Linkin Park Rock band
 ## Description:
-Linkin Park is an American rock band from Agoura Hills, California. Categorized as alternative rock, Linkin Park's earlier music spanned a fusion of heavy metal and hip hop,[1] while they later transitioned into more electronica and pop influenced music
+Linkin Park is an American rock band from Agoura Hills, California. Categorized as alternative rock, Linkin Park's earlier music spanned a fusion of heavy metal and hip hop, while they later transitioned into more electronica and pop influenced music.
 ### The band's current lineup 
 * vocalist/rhythm guitarist Mike Shinoda
 * lead guitarist Brad Delson
