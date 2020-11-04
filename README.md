@@ -9,5 +9,7 @@ Linkin Park is an American rock band from Agoura Hills, California. Categorized 
 
 Vocalists Mark Wakefield and Chester Bennington are former members of the band.
 
+<img src="Website%20screenshots/Top%20screenshot.png">
+
 ### More details are on the official website.
 www.linkinpark.com
